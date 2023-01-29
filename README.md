@@ -22,4 +22,6 @@ Heading attributes were added and in sequential order
 
 ## Title
 All titles are consise and descriptive 
-<! -- Picture -- >
+![Page title Search Engine Optimization](assets/images/Screenshot%202023-01-29%20at%204.38.57%20PM.png)
+![Page title Lead Generation](assets/images/Screenshot%202023-01-29%20at%204.39.07%20PM.png)
+![Page title Social Media Marketing](assets/images/Screenshot%202023-01-29%20at%204.39.21%20PM.png)
